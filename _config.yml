@@ -14,3 +14,6 @@ include:
   - PULL_REQUEST_TEMPLATE.md
 
 title: Synapse Terms
+github:
+  is_project_page: false
+  
